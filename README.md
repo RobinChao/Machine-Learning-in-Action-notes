@@ -18,4 +18,5 @@
 
 
 - 第1章 [机器学习基础](chapter01.ipynb)
+- 第2章 [k-近邻算法](chapter02.ipynb)
 
