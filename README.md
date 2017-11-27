@@ -18,5 +18,5 @@
 
 
 - 第1章 [机器学习基础](chapter01.ipynb)
-- 第2章 [k-近邻算法](chapter02.ipynb)
+- 第2章 [k-近邻算法](chapter02.ipynb)【[kNearestNeighbors.playground](https://github.com/RobinChao/Machine-Learning-in-Action-notes/tree/master/Swift-Source-for-Machine-learning-in-action/kNN)】
 
