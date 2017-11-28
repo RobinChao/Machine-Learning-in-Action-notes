@@ -19,4 +19,4 @@
 
 - 第1章 [机器学习基础](chapter01.ipynb)
 - 第2章 [k-近邻算法](chapter02.ipynb)【Swift Source: [kNearestNeighbors.playground](https://github.com/RobinChao/Machine-Learning-in-Action-notes/tree/master/Swift-Source-for-Machine-learning-in-action/kNN)】
-
+- 第2章 [决策树算法](chapter03.ipynb)
