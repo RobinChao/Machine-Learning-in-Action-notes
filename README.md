@@ -4,7 +4,7 @@
 
 **作者：Robin**
 
-《机器学习实战》学习笔记，使用 `jupyter notebook (ipython notebook)` 编写展示。
+《机器学习实战》学习笔记，使用 `jupyter notebook (ipython notebook)、Python 3.6.x` 编写展示。
 
 ----
 
