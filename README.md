@@ -18,5 +18,5 @@
 
 
 - 第1章 [机器学习基础](chapter01.ipynb)
-- 第2章 [k-近邻算法](chapter02.ipynb)【[sklearn-knn](https://github.com/RobinChao/Machine-Learning-in-Action-notes/blob/master/sklearn%20src/kNN/sklearn-knn.ipynb)】
-- 第2章 [决策树算法](chapter03.ipynb)【[sklearn-Decision%20Tree](https://github.com/RobinChao/Machine-Learning-in-Action-notes/blob/master/sklearn%20src/Decision%20Tree/sklearn-Decision%20Tree.ipynb)】
+- 第2章 [k-近邻算法](chapter02.ipynb)【[sklearn-kNN](https://github.com/RobinChao/Machine-Learning-in-Action-notes/blob/master/sklearn%20src/kNN/sklearn-knn.ipynb)】
+- 第2章 [决策树算法](chapter03.ipynb)【[sklearn-Decision Tree](https://github.com/RobinChao/Machine-Learning-in-Action-notes/blob/master/sklearn%20src/Decision%20Tree/sklearn-DecisionTree.ipynb)】
