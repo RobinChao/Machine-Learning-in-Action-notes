@@ -1,4 +1,4 @@
-# 《机器学习实战》学习笔记
+# 《机器学习实战》（《Machine learning in Action》）学习笔记
 
 ## 简介
 
